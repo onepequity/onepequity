@@ -11,3 +11,5 @@ Amazon scaler turned AI explorer, building with LLaMA.
 ## Vision  
 Open-source AI for everyone—Task Engines bridge the gap.
 
+## AI Ecosystem Insights
+LLaMA’s collaboration with AWS leverages SageMaker and EC2 for scalable AI deployment, but faces challenges like tech lift and ecosystem support compared to proprietary models. My Task Engine Store addresses this by providing pre-tuned LLaMA models, reducing setup complexity and enhancing trustworthiness through open-source deployment.
