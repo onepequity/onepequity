@@ -17,10 +17,9 @@ LLaMA’s collaboration with AWS leverages SageMaker and EC2 for scalable AI dep
 - Explored LLaMA’s role in industry alliances and regulatory compliance in [LLaMA Ecosystem Insights](https://github.com/onepequity/llama-ecosystem-insights), providing strategic recommendations for enterprise adoption.
 
 ## Why I’m a Fit
-- **Proven Partnership Success**: Scaled Amazon’s B2B GPO Partnership Program by $1.191B, exceeding forecasts by $191M with just 5% of resources, and secured Windstream’s largest client in company history.
-- **Compliance and Regulatory Expertise**: Leveraged cooperative purchasing contracts to navigate public sector compliance, unblocking government accounts and cutting approval times by 175%—key for AI partnerships in regulated sectors.
-- **Cross-Functional Leadership**: Led cross-functional teams at Amazon to drive 40% of departmental revenue, partnering with AWS, Ring, and other tech teams to deliver $300M+ in incremental revenue.
-- **Innovation and Problem-Solving**: Boosted sales productivity by 338% at Alpheus Communications through fiber network expansion and grew proprietary tech sales from 5% to 80% at Airband Communications, quadrupling margins.
-- **Tech-Savvy with AI Tools**: Utilized AWS, SageMaker, Bedrock, and LLMs to craft tailored solutions at Amazon, aligning with the AI ecosystem knowledge needed for this role.
-- **Agility in Challenging Environments**: Grew enterprise contracts by 30% during Windstream’s Chapter 11 restructuring, proving resilience and adaptability in high-pressure settings.
-- **Customer-Centric Approach**: Improved customer satisfaction by 45% and retention by 35% at Airband Communications, ensuring strong partner relationships.
+- Explosive Growth at Amazon: Took the B2B GPO Partnership Program from a stagnant 15% YoY growth before my arrival to an unprecedented 169% YoY growth, scaling it by $1.191B and exceeding forecasts by $191M. Remarkably, I accomplished this using only 5% of team resources, yet contributed 40% of the department’s overall growth—a testament to my ability to maximize impact efficiently.
+- Compliance and Regulatory Expertise: Mastered cooperative purchasing contracts to tackle public sector compliance, unlocking government accounts and slashing approval times by 175%, which is invaluable for AI partnerships in regulated industries.
+- Tech-Savvy with AI Tools: Harnessed AWS, SageMaker, Bedrock, and LLMs to develop customized solutions, aligning perfectly with the AI ecosystem expertise this role demands.
+- Cross-Functional Leadership: Directed cross-functional teams to generate over $300M in incremental revenue, collaborating seamlessly with AWS, Ring, and other tech units.
+- Agility and Innovation: Delivered a 338% boost in sales productivity at Alpheus Communications and grew enterprise contracts by 30% during Windstream’s Chapter 11 restructuring, proving I thrive in high-stakes, dynamic settings.
+
