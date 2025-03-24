@@ -8,8 +8,7 @@ Why I’m a Fit
 - Cross-Functional Leadership: Generated $300M+ in revenue across AWS and Ring teams.  
 - Agility and Innovation: Boosted sales productivity by 338% and grew contracts by 30% in tough settings.
 - AI-Driven Partnerships: Used AWS Titan to analyze customer feedback for Amazon Business, proving partner involvement boosted trust and satisfaction. This data-driven approach enhanced partner adoption by 50%, contributing to $300M+ in revenue.
-
-
+- Navigating Cross-Functional Priorities: Partnered with AWS product teams to integrate Titan for customer insights, overcoming sales reps’ focus on compute/storage by emphasizing trust-driven outcomes, ensuring alignment across teams.
 
 ## Projects
 - **[Task Engine Marketplace](https://github.com/onepequity/task-engine-marketplace)**: A marketplace for pre-tuned LLaMA models (Task Engines), simplifying AI deployment for businesses by providing ready-to-use solutions for roles like market analysis and customer service. _Built using LLaMA 3.1, Hugging Face Transformers, and AWS SageMaker for scalable model hosting._
