@@ -15,7 +15,7 @@ Projects
 - **[LLaMA FAQ Bot](https://github.com/onepequity/llama-faq-bot)**: Answers LLaMA questions with 95% accuracy.
 
 Contributions  
-- Contributed to [PyTorch](https://github.com/pytorch/pytorch/pull/your-pr-number) by clarifying tensor definition in README.
+- Contributed to [PyTorch](https://github.com/pytorch/pytorch/pull/149835) by clarifying tensor definition in README.
 
 Vision  
 Open-source AI for everyone—Task Engines make LLaMA accessible and scalable.
