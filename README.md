@@ -2,13 +2,16 @@ Hey, I’m Nathan
 Amazon scaler turned AI explorer, building with LLaMA.
 
 Why I’m a Fit  
-- Explosive Growth at Amazon: Took the B2B GPO Partnership Program from 15% to 169% YoY growth, scaling it by $1.191B with just 5% of team resources.  
-- Compliance and Regulatory Expertise: Slashed approval times by 175% through mastery of public sector contracts, perfect for AI in regulated industries.  
-- Tech-Savvy with AI Tools: Built solutions with AWS, SageMaker, and LLMs, aligning with this role’s needs.  
-- Cross-Functional Leadership: Generated $300M+ in revenue across AWS and Ring teams.  
-- Agility and Innovation: Boosted sales productivity by 338% and grew contracts by 30% in tough settings.
-- AI-Driven Partnerships: Used AWS Titan to analyze customer feedback for Amazon Business, proving partner involvement boosted trust and satisfaction. This data-driven approach enhanced partner adoption by 50%, contributing to $300M+ in revenue.
-- Navigating Cross-Functional Priorities: Leveraged LLaMA’s trust advantages to shift AWS sales reps’ recommendations from Titan to LLaMA, aligning their compute/storage sales goals with customer trust needs, and opening opportunities for LLaMA’s enterprise adoption.
+- Explosive Growth at Amazon: Took the B2B GPO Partnership Program from 15% to 169% YoY growth, scaling it by $1.191B with just 5% of team resources
+- Compliance and Regulatory Expertise: Slashed approval times by 175% through mastery of public sector contracts, perfect for AI in regulated industries
+- Tech-Savvy with AI Tools: Built solutions with AWS, SageMaker, and LLMs, aligning with this role’s needs
+- Cross-Functional Leadership: Generated $300M+ in revenue across AWS and Ring teams
+- Agility and Innovation: Boosted sales productivity by 338% and grew contracts by 30% in tough settings
+- AI-Driven Partnerships: Used AWS Titan to analyze customer feedback for Amazon Business, proving partner involvement boosted trust and satisfaction. This data-driven approach enhanced partner adoption by 50%, contributing to $300M+ in revenue
+
+Navigating Cross-Functional Priorities: 
+- Leveraged LLaMA’s trust advantages to shift AWS sales reps’ recommendations from Titan to LLaMA, aligning their compute/storage sales goals with customer trust needs, and opening opportunities for LLaMA’s enterprise adoption
+- Drove a 20% increase in LLaMA adoption by guiding AWS sales reps to recommend LLaMA over Titan, aligning cross-functional goals and expanding Meta’s enterprise reach
 
 ## Projects
 - **[Task Engine Marketplace](https://github.com/onepequity/task-engine-marketplace)**: A marketplace for pre-tuned LLaMA models (Task Engines), simplifying AI deployment for businesses by providing ready-to-use solutions for roles like market analysis and customer service. _Built using LLaMA 3.1, Hugging Face Transformers, and AWS SageMaker for scalable model hosting._
