@@ -8,11 +8,13 @@ Why I’m a Fit
 - **Cross-Functional Leadership**: Generated $300M+ in revenue across AWS and Ring teams.  
 - **Agility and Innovation**: Boosted sales productivity by 338% and grew contracts by 30% in tough settings.
 
-Projects  
-- **[Task Engine Marketplace](https://github.com/onepequity/task-engine-marketplace)**: A marketplace of 30+ pre-tuned LLaMA models, reducing AI deployment complexity by 80%.  
-- **[LLaMA Customer Feedback Engine](https://github.com/onepequity/llama-sentiment-analyzer)**: Sentiment analysis with 90% accuracy, built in 48 hours.  
-- **[LLaMA Market Trend Analyzer](https://github.com/onepequity/llama-market-trend-analyzer)**: Real-time trend insights using mock data.  
-- **[LLaMA FAQ Bot](https://github.com/onepequity/llama-faq-bot)**: Answers LLaMA questions with 95% accuracy.
+## Projects
+- **[Task Engine Marketplace](https://github.com/onepequity/task-engine-marketplace)**: A marketplace for pre-tuned LLaMA models (Task Engines), simplifying AI deployment for businesses by providing ready-to-use solutions for roles like market analysis and customer service.
+- **[News Summary Tool](https://github.com/onepequity/news-summary-tool)**: Generates concise, unbiased summaries of news articles using LLaMA, tackling information overload with AI-powered clarity.
+- **[LLaMA FAQ Bot](https://github.com/onepequity/llama-faq-bot)**: Answers common questions about LLaMA, making AI knowledge more accessible to non-technical users and developers alike.
+- **[Market Trend Analyzer](https://github.com/onepequity/llama-market-trend-analyzer)**: Analyzes social media trends and sentiment using LLaMA, delivering real-time insights for businesses to stay competitive.
+- **[Sentiment Analyzer](https://github.com/onepequity/llama-sentiment-analyzer)**: Turns customer feedback into actionable insights by analyzing sentiment with LLaMA, helping businesses improve their offerings.
+- **[AI Data Licensing Strategies](https://github.com/onepequity/ai-data-licensing-strategies)**: Explores data licensing strategies for AI partnerships, focusing on compliance, monetization, and secure deployments for LLaMA and similar models.
 
 Contributions  
 - Contributed to [PyTorch](https://github.com/pytorch/pytorch/pull/149835) by clarifying tensor definition in README.
