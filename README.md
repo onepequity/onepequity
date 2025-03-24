@@ -7,7 +7,7 @@ Why I’m a Fit
 - Tech-Savvy with AI Tools: Built solutions with AWS, SageMaker, and LLMs, aligning with this role’s needs
 - Cross-Functional Leadership: Generated $300M+ in revenue across AWS and Ring teams
 - Agility and Innovation: Boosted sales productivity by 338% and grew contracts by 30% in tough settings
-- AI-Driven Partnerships: Used AWS Titan to analyze customer feedback for Amazon Business, proving partner involvement boosted trust and satisfaction. This data-driven approach enhanced partner adoption by 50%, contributing to $300M+ in revenue
+- AI-Driven Partnerships: Used AWS Titan to analyze customer feedback for Amazon Business, proving partner involvement boosted trust and satisfaction. This data-driven approach enhanced partner adoption by 50%, contributing to $300M+ in revenue. Scaled AWS Titan across Amazon Business, proving partner collaboration drives trust and adoption
 
 Navigating Cross-Functional Priorities: 
 - Leveraged LLaMA’s trust advantages to shift AWS sales reps’ recommendations from Titan to LLaMA, aligning their compute/storage sales goals with customer trust needs, and opening opportunities for LLaMA’s enterprise adoption
