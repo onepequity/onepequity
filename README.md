@@ -20,6 +20,9 @@ Navigating Cross-Functional Priorities:
 - **[Market Trend Analyzer](https://github.com/onepequity/llama-market-trend-analyzer)**: Analyzes social media trends and sentiment using LLaMA, delivering real-time insights for businesses to stay competitive. _Built using LLaMA 3.1, AWS SageMaker for deployment, and BeautifulSoup for web scraping._
 - **[Sentiment Analyzer](https://github.com/onepequity/llama-sentiment-analyzer)**: Turns customer feedback into actionable insights by analyzing sentiment with LLaMA, helping businesses improve their offerings. _Built using LLaMA 3.1, PyTorch, and AWS Lambda for serverless processing._
 - **[AI Data Licensing Strategies](https://github.com/onepequity/ai-data-licensing-strategies)**: Explores data licensing strategies for AI partnerships, focusing on compliance, monetization, and secure deployments for LLaMA and similar models. _Research and analysis using AWS Bedrock, SageMaker, and LLaMA 3.1 for data insights._
+- ### Text Summarization
+- **Repository**: [text-summarization-engine](https://github.com/onepequity/text-summarization-engine)
+- **Description**: Summarizes text using LLaMA 3 8B.
 
 AI Ecosystem Thought Leadership
 Created a video presentation comparing LLaMA’s open-source trust and performance to competitors like GPT-4 and Claude. Proposed Task Engine Marketplace to reduce complexity, targeting tech-heavy, resource-light, and cost-driven enterprises. [Watch Video](https://onepequity.github.io/llamavideohosting/)
