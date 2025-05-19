@@ -1,7 +1,7 @@
 Hey, I’m Nathan  
 Amazon scaler turned AI explorer, building with LLaMA.
 
-Why I’m a Fit  
+
 - Explosive Growth at Amazon: Took the B2B GPO Partnership Program from 15% to 169% YoY growth, scaling it by $1.191B with just 5% of team resources
 - Compliance and Regulatory Expertise: Slashed approval times by 175% through mastery of public sector contracts, perfect for AI in regulated industries
 - Tech-Savvy with AI Tools: Built solutions with AWS, SageMaker, and LLMs, aligning with this role’s needs
@@ -23,12 +23,6 @@ Navigating Cross-Functional Priorities:
 - ### Text Summarization
 - **Repository**: [text-summarization-engine](https://github.com/onepequity/text-summarization-engine)
 - **Description**: Summarizes text using LLaMA 3 8B.
-
-AI Ecosystem Thought Leadership
-Created a video presentation comparing LLaMA’s open-source trust and performance to competitors like GPT-4 and Claude. Proposed Task Engine Marketplace to reduce complexity, targeting tech-heavy, resource-light, and cost-driven enterprises. [Watch Video](https://onepequity.github.io/llamavideohosting/)
-
-Contributions  
-- Contributed to [PyTorch](https://github.com/pytorch/pytorch/pull/149835) by clarifying tensor definition in README.
 
 Vision  
 Open-source AI for everyone—Task Engines make LLaMA accessible and scalable.
