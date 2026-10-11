@@ -28,4 +28,4 @@ The platforms stay private. The pieces worth sharing are here:
 
 20+ years as a product and growth operator: grew an Amazon Business division from $1B to $3.2B in a single year (2024), led Alpheus from resale to fiber (revenue up 554% in two years, $200M to $1.8B valuation at sale), and was employee through an IPO at Cbeyond.
 
-📍 Dallas-Fort Worth · [nathanone.com](https://nathanone.com) · [LinkedIn](https://linkedin.com/in/thenathan1)
+📍 Dallas-Fort Worth · [nathanone.com](https://nathanone.com) · [X @nathanone](https://x.com/nathanone) · [LinkedIn](https://linkedin.com/in/thenathan1)
