@@ -22,6 +22,7 @@ The platforms stay private. The pieces worth sharing are here:
 
 - **[agent-fleet-kit](https://github.com/onepequity/agent-fleet-kit)**: the rules, hooks and CI gates I use to run a fleet of coding agents they can't talk their way past.
 - **[fail-closed-router](https://github.com/onepequity/fail-closed-router)**: LLM provider routing that falls through only on outages and quota errors, never to launder a bad answer through another model.
+- **[aithon-mcp-server](https://github.com/onepequity/aithon-mcp-server)**: lets Claude, Cursor and other agents search Aithon's B2B services catalog, read order forms and draft orders over MCP.
 
 **Before this**
 
